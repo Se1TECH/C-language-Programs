@@ -9,6 +9,6 @@ void main()
 	printf("Enter the value of decimal number : ");
 	scanf("%f",&dec);
 	val = 100*dec;
-	printf("\Return value of decimal to paisa is  :  %d",val);
+	printf("\nReturn value of decimal to paisa is  :  %d",val);
 	getch();
 }
