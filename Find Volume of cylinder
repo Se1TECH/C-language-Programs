@@ -1,0 +1,15 @@
+//que:  Write a program to find the volume of a cylinder.
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	float radius,h,value;
+	clrscr();
+	printf("Enter the value of radius : ");
+	scanf("%f",&radius);
+	printf("Enter the value of height : ");
+	scanf("%f",&h);
+	value = 3.14*radius*radius*h;
+	print("\nThe volume of Cylinder is : %f",value);
+	getch();
+}
