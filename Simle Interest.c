@@ -14,4 +14,5 @@ void main()
 	SI = (p*r*t)/100;
 	printf("\nSimple Intrest : %f",SI);
 	getch();
+	
 }
