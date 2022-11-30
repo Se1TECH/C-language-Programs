@@ -14,4 +14,5 @@ void main()
 
 	printf("\nPercentage: %f",percentage);
 	getch();
+	
 }
