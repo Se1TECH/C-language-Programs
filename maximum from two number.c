@@ -18,5 +18,4 @@ void main()
 	       printf("%d is maximum number",n2);
 	}
 	getch();
-
 }
