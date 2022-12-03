@@ -1,4 +1,4 @@
-//Que: Print grade as per percentage
+//Que: Print grade as per percentage.
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -32,5 +32,6 @@ void main()
 		printf("\nFAIL");
 	}
 	getch();
+	
 }
 
