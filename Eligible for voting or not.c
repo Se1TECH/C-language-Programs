@@ -16,5 +16,4 @@ void main()
 		printf("\nYou are not eligible for voting");
 	}
 	getch();
-  
 }
