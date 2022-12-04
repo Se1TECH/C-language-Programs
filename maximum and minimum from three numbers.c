@@ -32,5 +32,4 @@ void main()
 		printf("\n%d is Mimimum",c);
 	}
 	getch();
-
 }
