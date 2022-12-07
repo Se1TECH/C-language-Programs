@@ -13,5 +13,4 @@ void main()
 	}
 	printf("Facctorial of %d is : %d",no,fact);
 	getch();
-
 }
