@@ -23,4 +23,5 @@ void main()
 		printf("%d is not Prime Number",no);
 	}
 	getch();
+	
 }
