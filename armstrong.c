@@ -1,4 +1,4 @@
-//Quetion: Write Program in C to Check Entered number is armstrong or not
+//Quetion: Write Program in C to Check Entered number is armstrong or not.
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -23,4 +23,5 @@ void main()
 		printf("\n%d is not armstrong number",n);
 	}
 	getch();
+	
 }
