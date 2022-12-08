@@ -1,4 +1,4 @@
-//Question: Write Program in C to Check Entered Number is Palindrome or Not
+//Question: Write Program in C to Check Entered Number is Palindrome or Not.
 #include<stdio.h>
 #include<conio.h>
 void main()
