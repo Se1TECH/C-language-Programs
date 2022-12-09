@@ -1,4 +1,4 @@
- //Question: Write Program in C to Scan 10 Value of find Sum of even numbers
+ //Question: Write Program in C to Scan 10 Value of find Sum of even numbers.
 #include<stdio.h>
 #include<conio.h>
 void main()
