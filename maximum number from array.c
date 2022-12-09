@@ -1,4 +1,4 @@
-//Question: Write Program in C to find Maximum from array.
+//Question: Write Program in C to find Maximum from array. 
 #include<stdio.h>
 #include<conio.h>
 void main()
