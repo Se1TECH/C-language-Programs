@@ -1,4 +1,4 @@
-//Question: Write Program in C to Read 10 Integers with Array and Print array in Reverse.
+//Question: Write Program in C to Read 10 Integers with Array and Print array in Reverse. 
 #include<stdio.h>
 #include<conio.h>
 void main()
