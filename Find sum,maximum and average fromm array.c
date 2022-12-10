@@ -1,4 +1,4 @@
-//Question: Write Program in C to Read 5 Integers with Array and Find sum,maximum and average
+//Question: Write Program in C to Read 5 Integers with Array and Find sum,maximum and average.
 #include<stdio.h>
 #include<conio.h>
 void main()
