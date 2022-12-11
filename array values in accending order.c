@@ -1,4 +1,4 @@
-//Question: Write a Program in C to read Array Values from User and Print Values in Accending Order.
+//Question: Write a Program in C to read Array Values from User and Print Values in Accending Order. 
 #include<stdio.h>
 #include<conio.h>
 void main()
