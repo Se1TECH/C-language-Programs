@@ -47,6 +47,4 @@ void main(){
 	div();
 
 	getch();
-
-
 }
