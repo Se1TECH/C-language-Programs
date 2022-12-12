@@ -1,4 +1,4 @@
-//Question: Write Program in C to Read Numbers from user using Array Print Array Values in Decending Order
+//Question: Write Program in C to Read Numbers from user using Array Print Array Values in Decending Order.
 #include<stdio.h>
 #include<conio.h>
 void main()
