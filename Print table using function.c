@@ -1,4 +1,4 @@
-//Question: Write a Program in C to Print Table of Number using Function.
+//Question: Write a Program in C to Print Table of Number using Function. 
 #include<stdio.h>
 #include<conio.h>
 void table(int);
