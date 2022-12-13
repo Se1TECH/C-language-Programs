@@ -1,4 +1,4 @@
-//Question: Write Program in C to Print Factorial using Function. 
+//Question: Write Program in C to Print Factorial using Function.
 #include<stdio.h>
 #include<conio.h>
 void fact(int);
