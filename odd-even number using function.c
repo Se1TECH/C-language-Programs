@@ -1,4 +1,4 @@
-//Question: Write Program in C to Check Entered Number is Odd or Even.
+//Question: Write Program in C to Check Entered Number is Odd or Even. 
 #include<stdio.h>
 #include<conio.h>
 int oddEven(int);
